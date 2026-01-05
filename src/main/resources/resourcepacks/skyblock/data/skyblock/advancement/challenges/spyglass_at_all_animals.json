@@ -430,6 +430,24 @@
         }
       }
     },
+    "nautilus": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "looking_at": {
+              "type": "minecraft:nautilus"
+            }
+          }
+        },
+        "item": {
+          "items": [
+            "minecraft:spyglass"
+          ]
+        }
+      }
+    },
     "ocelot": {
       "trigger": "minecraft:using_item",
       "conditions": {
