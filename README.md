@@ -4,7 +4,7 @@ English | [简体中文](./docs/zh_cn/README.md)
 
 # Carpet Sky Additions Reborn
 
-Carpet Sky Additions Reborn is a mod based on CarpetSkyAdditions
+CarpetSkyAdditions-Reborn is a continuation of CarpetSkyAdditions aiming to keep the mod updated to later Minecraft versions
 [View the original mod here](https://github.com/jsorrell/CarpetSkyAdditions/)
 
 ## Try the mod on sky.hardcoreanarchy.gay
