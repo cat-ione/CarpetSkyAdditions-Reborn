@@ -4,9 +4,9 @@
 
 # Carpet Sky Additions Reborn
 
-CarpetSkyAdditions-Reborn is a continuation of CarpetSkyAdditions aiming to keep the mod updated to later Minecraft versions.
+Carpet Sky Additions Reborn 是一个基于 CarpetSkyAdditions 的模组，旨在帮助原模组与最新的 Minecraft 版本匹配。
 
-[View the original mod here](https://github.com/jsorrell/CarpetSkyAdditions/)
+[在这里查看原版模组](https://github.com/jsorrell/CarpetSkyAdditions/)
 
 ## 在 sky.hardcoreanarchy.gay 上试玩本模组
 
@@ -83,10 +83,10 @@ _在默认设置下安装时，默认生成中可获得的所有方块、物品�
 `java -jar mcaselector.jar --mode delete --world 'world' --query 'Palette contains "trial_spawner" OR Palette contains "vault"'`
 _注意：这将完全删除任何包含宝库/试炼刷怪笼的区块，以便它们可以重新生成。 请谨慎使用。_
 
-## Translations
+## 翻译
 
-The mod and the datapack are available for translation using [Crowdin](https://crowdin.com/project/carpet-sky-additions-reborn).
-If you are able to add translations, your help would be much appreciated.
+模组和数据包可以使用 [Crowdin](https://crowdin.com/project/carpet-sky-additions-reborn) 进行翻译。
+如果你能够添加翻译，请提供帮助。
 
 ## 致谢
 
@@ -108,7 +108,7 @@ If you are able to add translations, your help would be much appreciated.
 
 ## 杰出贡献者
 
-- [Seigmannen](https://github.com/Seigmannen) (代码/数据包/测试)
-- [XieLong55](https://github.com/XieLong55) (简体中文翻译更新)
-- [SilianZ](https://github.com/SilianZ) (Translations and Crowdin setup)
+- [Seigmannen](https://github.com/Seigmannen)（代码/数据包/测试）
+- [XieLong55](https://github.com/XieLong55)（简体中文翻译更新）
+- [SilianZ](https://github.com/SilianZ)（翻译和 Crowdin 设置）
 
