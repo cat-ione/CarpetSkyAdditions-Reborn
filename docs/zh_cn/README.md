@@ -4,8 +4,9 @@
 
 # Carpet Sky Additions Reborn
 
-Carpet Sky Additions Reborn 是一个基于 CarpetSkyAdditions 的模组
-[在此查看原模组](https://github.com/jsorrell/CarpetSkyAdditions/)
+CarpetSkyAdditions-Reborn is a continuation of CarpetSkyAdditions aiming to keep the mod updated to later Minecraft versions.
+
+[View the original mod here](https://github.com/jsorrell/CarpetSkyAdditions/)
 
 ## 在 sky.hardcoreanarchy.gay 上试玩本模组
 
@@ -82,6 +83,11 @@ _在默认设置下安装时，默认生成中可获得的所有方块、物品�
 `java -jar mcaselector.jar --mode delete --world 'world' --query 'Palette contains "trial_spawner" OR Palette contains "vault"'`
 _注意：这将完全删除任何包含宝库/试炼刷怪笼的区块，以便它们可以重新生成。 请谨慎使用。_
 
+## Translations
+
+The mod and the datapack are available for translation using [Crowdin](https://crowdin.com/project/carpet-sky-additions-reborn).
+If you are able to add translations, your help would be much appreciated.
+
 ## 致谢
 
 - [@Seigmannen](https://github.com/Seigmannen) 合并了他改进的数据包，具有更好的平衡性和更多样化的开局
@@ -104,4 +110,5 @@ _注意：这将完全删除任何包含宝库/试炼刷怪笼的区块，以便
 
 - [Seigmannen](https://github.com/Seigmannen) (代码/数据包/测试)
 - [XieLong55](https://github.com/XieLong55) (简体中文翻译更新)
+- [SilianZ](https://github.com/SilianZ) (Translations and Crowdin setup)
 
