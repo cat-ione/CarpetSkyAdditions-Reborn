@@ -18,8 +18,10 @@
 该模组仅需在服务器端进行配置。
 
 - 创建一个 [Fabric 服务端](https://fabricmc.net/use/server/)
-- 下载  [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)，[fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files)，[cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A7499),
-  和 [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
+- Download [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files),
+  [fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files),
+  [cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files),
+  and [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
 - 将下载的模组放入 `<server-directory>/mods/`
 - 启动服务端以生成配置模板 `server.properties` 和 `eula.txt` 文件
 - 同意 EULA（最终用户许可协议）
