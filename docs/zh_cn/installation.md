@@ -3,8 +3,7 @@
 ### 单人游戏
 
 - 安装 [Fabric](https://fabricmc.net/use/installer/)
-- 下载  [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)，[fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files)，[cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A7499),
-  和 [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
+- 下载  [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)，[fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files)，[cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A7499)，和 [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
 - 将下载的模组放入 `<minecraft-directory>/mods/`
 - 启动 Minecraft 并选择 `创建新的世界`
 - 将允许命令设置为 `开`，以便你能够启用/禁用模组功能
@@ -18,10 +17,7 @@
 该模组仅需在服务器端进行配置。
 
 - 创建一个 [Fabric 服务端](https://fabricmc.net/use/server/)
-- Download [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files),
-  [fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files),
-  [cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files),
-  and [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
+- 下载  [fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)，[fabric-carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files)，[cloth-config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files)，和 [Carpet Sky Additions](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn/releases)
 - 将下载的模组放入 `<server-directory>/mods/`
 - 启动服务端以生成配置模板 `server.properties` 和 `eula.txt` 文件
 - 同意 EULA（最终用户许可协议）
