@@ -116,11 +116,21 @@ _其中铜、红石和青金石需要使用对应的方块。_
 
 #### 马铠可合成
 
-提供 _铁马铠_，_金马铠_ 和 _钻石马铠_
+Provides _Copper Horse Armor_, _Iron Horse Armor_, _Golden Horse Armor_, and _Diamond Horse Armor_
 
 通过在数据包中删除 `skyblock/data/skyblock/recipe/*_horse_armor.json` 可移除该特性
 
 使用对应材料在工作台上摆放为 **H** 型以合成对应马铠。
+
+---
+
+#### Nautilus Armor is Craftable
+
+Provides _Copper Nautilus Armor_, _Iron Nautilus Armor_, _Golden Nautilus Armor_, and _Diamond Nautilus Armor_
+
+Disable by deleting `skyblock/data/skyblock/recipe/*_nautilus_armor.json`
+
+Craft Nautilus Armors with their respective materials in a ring around a Nautilus shell.
 
 ---
 
