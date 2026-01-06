@@ -6,7 +6,7 @@ English | [简体中文](./docs/zh_cn/README.md)
 
 CarpetSkyAdditions-Reborn is a continuation of CarpetSkyAdditions aiming to keep the mod updated to later Minecraft versions.
 
-[View the original mod here](https://github.com/jsorrell/CarpetSkyAdditions/).
+[View the original mod here](https://github.com/jsorrell/CarpetSkyAdditions/)
 
 ## Try the mod on sky.hardcoreanarchy.gay
 
