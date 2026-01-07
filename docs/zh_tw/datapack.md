@@ -116,11 +116,21 @@ For example, Nether Gold Ore can be crafted with Netherrack in the center and Go
 
 #### Horse Armor is Craftable
 
-Provides _Iron Horse Armor_, _Golden Horse Armor_, and _Diamond Horse Armor_
+Provides _Copper Horse Armor_, _Iron Horse Armor_, _Golden Horse Armor_, and _Diamond Horse Armor_
 
 Disable by deleting `skyblock/data/skyblock/recipe/*_horse_armor.json`
 
 Craft Horse Armors with their respective materials in a **H** shape.
+
+---
+
+#### Nautilus Armor is Craftable
+
+Provides _Copper Nautilus Armor_, _Iron Nautilus Armor_, _Golden Nautilus Armor_, and _Diamond Nautilus Armor_
+
+Disable by deleting `skyblock/data/skyblock/recipe/*_nautilus_armor.json`
+
+Craft Nautilus Armors with their respective materials in a ring around a Nautilus shell.
 
 ---
 
